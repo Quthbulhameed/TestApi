@@ -1,0 +1,30 @@
+{
+  "name": "airporting",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DjibrilNaji/BridgeTest.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "Bridge",
+    "API"
+  ],
+  "author": "Naji Djibril",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DjibrilNaji/BridgeTest/issues"
+  },
+  "homepage": "https://github.com/DjibrilNaji/BridgeTest#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "superagent": "^7.1.2"
+  }
+}
